@@ -1,0 +1,9 @@
+_preview.png
+__pycache__/
+
+# personal — never publish
+assets/avatar.png
+assets/*.jpg
+assets/*.jpeg
+_preview*.png
+__pycache__/
