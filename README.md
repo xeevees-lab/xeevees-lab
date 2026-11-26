@@ -386,7 +386,7 @@ Python 2.7 on Kali, **isolated in a container** instead of breaking the system i
 
 <a href="mailto:veenuspatil0330@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-veenuspatil0330@gmail.com-fabd2f?style=for-the-badge&logo=gmail&logoColor=1d2021&labelColor=fe8019"></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=xeevees-lab&style=flat-square&color=504945&label=profile+views">
 
