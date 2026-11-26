@@ -367,18 +367,21 @@ Python 2.7 on Kali, **isolated in a container** instead of breaking the system i
 
 <sub><i>Much of my day-to-day work lives in private repos — the numbers below only tell part of the story.</i></sub>
 
-<br><br>
+<br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeevees-lab&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=d5c4a1">
-<img height="150" src="https://streak-stats.demolab.com/?user=xeevees-lab&hide_border=true&background=282828&ring=fabd2f&fire=fe8019&currStreakLabel=fabd2f&sideLabels=d5c4a1&dates=928374&stroke=504945&sideNums=d5c4a1&currStreakNum=fbf1c7&dayNums=8ec07c">
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=xeevees-lab&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&title_color=fabd2f&ring_color=fe8019">
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeevees-lab&layout=compact&hide_border=true&theme=tokyonight&title_color=fabd2f"><br>
+<img height="140" src="https://streak-stats.demolab.com/?user=xeevees-lab&hide_border=true&theme=tokyonight&currStreakLabel=fabd2f&ring=fe8019&fire=fe8019">
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xeevees-lab/xeevees-lab/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xeevees-lab/xeevees-lab/output/snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/xeevees-lab/xeevees-lab/output/snake.svg">
 </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xeevees-lab&hide_border=true&theme=tokyo-night&title_color=fabd2f&point=fe8019&area=true">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:504945,50:fe8019,100:504945&section=header" width="100%">
 
